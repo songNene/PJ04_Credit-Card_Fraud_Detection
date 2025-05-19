@@ -52,7 +52,7 @@
 - `GridSearchCV`와 `RandomizedSearchCV`로 최적 파라미터 탐색
 - 평가 지표로 `roc-auc`를 우선적으로 사용
 
-## 📌 사용 라이브러리
+### 📌 사용 라이브러리
 
 - pandas, numpy
 - scikit-learn
